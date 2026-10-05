@@ -33,7 +33,7 @@ SkuSeal is a two-sided network for the EU Cyber Resilience Act (Regulation (EU) 
 3. **Check.** Each SKU resolves to one status against the checklist for that organisation's role: Notice open, Support ended, Missing, Partial, Expired or Ready.
 4. **Retain.** Audit packs capture the evidence as it stood, with a retention record for every item.
 
-Evidence is append-only and every artefact, verification and audit pack is written to a tamper-evident hash chain. Data is hosted in the EU.
+All data is hosted in the EU.
 
 ## What SkuSeal does not do
 
